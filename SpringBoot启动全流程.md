@@ -1,6 +1,7 @@
 # SpringBoot启动全流程
 
 ### 一、自动装配
+[参考](https://blog.csdn.net/qq_27028647/article/details/129266436)
 自动装配大致过程如下：
 
 + 获取到组件（例如spring-boot-starter-data-redis）META-INF文件夹下的spring.factories文件
