@@ -9,5 +9,7 @@
 
 + 将实体类注入到IoC容器中进行使用
 
+**核心类**
++ AutoConfigurationImportSelector
 
 ### 二、SpringApplication.run()
