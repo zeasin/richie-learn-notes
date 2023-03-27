@@ -1,5 +1,5 @@
 # SpringBoot启动全流程
-[参考](https://blog.csdn.net/weixin_43868685/article/details/119174084)
+
 ### 一、自动装配
 [参考](https://blog.csdn.net/qq_27028647/article/details/129266436)
 自动装配大致过程如下：
